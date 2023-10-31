@@ -24,7 +24,7 @@ Analisis sentimen komentar instagram berbahasa Indonesia menggunakan algoritma n
 - Classification
     - Naive Bayes Classification
 - Evaluation
-    - Confussion Matrix -> akurasi model 95%
+    - Confussion Matrix -> The accuracy of the model built reaches 95%
 - Production
     - Streamlit
     
