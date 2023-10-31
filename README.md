@@ -62,6 +62,8 @@ Start the server
 ## Preview
 
 ![App Screenshot](ss.png)
+![preview](https://github.com/RaisJaya/Analysis-Seniment-Komentar-Instagram_Algoritma-NaiveBayes/assets/61975603/abccbc60-375b-48db-b557-dd715afa3a72)
+
 
 
 
