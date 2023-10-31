@@ -70,7 +70,7 @@ Start the server
 
 ## Disadvantages
 
-Not yet using real-time datasets with multi languages and there is no visualization of the latest sentiment trend data so there is no interactive dashboard to monitor comment sentiment
+Not yet using real-time datasets with multi languages and there is no visualization of the latest sentiment trend data so there is no interactive dashboard to monitor comment sentiment. The deployment process is still not successful, so it is not yet publicly available
 
 
 ## Authors
